@@ -11,7 +11,7 @@
 </div>
 <p></p>
 
-<i>Computer Engineering @ UNT | Software Engineer </i> 
+<i>Computer Engineering @ UNT | Software Engineer | Aspiring Product Manager </i> 
 
 <h3>About Me: </h3> <p></p>
 :woman_technologist:  Software Engineering Intern at JPMorgan Chase & Co. <p></p>
