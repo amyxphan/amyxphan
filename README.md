@@ -52,7 +52,7 @@
 
 <h3>My Awards: </h3> <p></p>
 :eagle: 2024 UNT Golden Eagle Award Recipient  <p></p>
-:seedling: 2024 WeHack UTD Hackathon Winner (2nd Place L3Harris Challenge)  <p></p>
+:crystal_ball: 2024 WeHack UTD Hackathon Winner (2nd Place L3Harris Challenge)  <p></p>
 :books: 2023 Grace Hopper Academic Scholar  <p></p>
 :star: 2023 SASE Collegiate Star Honorable Mention  <p></p>
 :tada: 2023 James Carl Matthews President of the Year	<p></p>
