@@ -11,11 +11,10 @@
 </div>
 <p></p>
 
-<i> Software Engineer | Aspiring Product Manager </i> 
+<i> Software Engineer </i> 
 
 <h3>About Me: </h3> <p></p>
 :woman_technologist:  Software Engineer at JPMorgan Chase & Co. <p></p>
-:test_tube:  SASE South Regional Coordinator <p></p>
 :family_man_woman_girl_girl: Co-Founder of the Society of Asian Scientists and Engineers at UNT (SASE UNT) <p></p>
 
 <p></p>
