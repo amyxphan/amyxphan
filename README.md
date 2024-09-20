@@ -15,7 +15,7 @@
 
 <h3>About Me: </h3> <p></p>
 :woman_technologist:  Software Engineer at JPMorgan Chase & Co. <p></p>
-:family_man_woman_girl_girl: Co-Founder of the Society of Asian Scientists and Engineers at UNT (SASE UNT) <p></p>
+:family_man_woman_girl_girl: Founder of the Society of Asian Scientists and Engineers at UNT (SASE UNT) <p></p>
 
 <p></p>
 
