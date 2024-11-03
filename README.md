@@ -62,5 +62,5 @@
 
 <h3>Hobbies + Fun Facts: </h3> <p></p>
 :evergreen_tree:  Hiking, Traveling, Basketball, and Painting <p></p>
-:books: 1st Generation College Student <p></p>
+:books: 1st Generation College Graduate <p></p>
 :computer: Self-taught Software Engineer (hardware background) <p></p>
